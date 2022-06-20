@@ -1,2 +1,0 @@
-This is trial for git.
-This is a second page.

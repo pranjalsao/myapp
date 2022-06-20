@@ -14,3 +14,9 @@ function isEven(number) {
   }
   
   subtract(10, 4)
+
+function square(number){
+    console.log(number*number)
+}
+
+square(3)

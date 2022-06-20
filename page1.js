@@ -15,8 +15,8 @@ function isEven(number) {
   
   subtract(10, 4)
 
-function square(number){
-    console.log(number*number)
+function cube(number){
+    console.log(number*number*number)
 }
 
-square(3)
+cube(3)
